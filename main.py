@@ -15,7 +15,6 @@ food = Food()
 race_is_on = True
 score = Score()
 
-nnn
 while race_is_on:
     screen.update()
     time.sleep(0.15)
