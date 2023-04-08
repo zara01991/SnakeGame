@@ -14,7 +14,7 @@ snake = Snake()
 food = Food()
 race_is_on = True
 score = Score()
-
+123
 while race_is_on:
     screen.update()
     time.sleep(0.15)
